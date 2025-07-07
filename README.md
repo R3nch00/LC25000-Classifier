@@ -4,6 +4,10 @@ Hybrid ensemble models combining PCA, MLP, and CNNs for classifying lung and col
 ## 🗂️ Project Overview
 This project implements hybrid machine learning and deep learning models to classify histopathological images from the LC25000 dataset, which contains images of lung (3 classes) and colon (2 classes) tissues. The study combines traditional feature reduction techniques (PCA) with classifiers like MLP and Deep CNNs, and finalizes predictions using ensemble voting methods.
 
+## 🌐 Data Availability
+The dataset used in this project is publicly available on Kaggle:
+[Lung and Colon Cancer Histopathological Images Dataset](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
+
 ## 🧩 Folder Structure
 ```bash
 ├── Dataset/
