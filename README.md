@@ -51,8 +51,8 @@ This project implements hybrid machine learning and deep learning models to clas
 . Evaluate both to choose the better ensemble.
 
 ### 7️⃣ Final Model Selection & Evaluation
-. Identify best ensemble model combination (soft voting ensemble of MLP, Deep CNN, PCA+MLP).
-. Compute metrics: Accuracy, Precision, Recall, F1-score, MAE, MSE, RMSE, Confusion Matrix, ROC & AUC.
+. Identify best ensemble model combination (soft voting ensemble of MLP, Deep CNN, PCA+MLP)
+. Compute metrics: Accuracy, Precision, Recall, F1-score, MAE, MSE, RMSE, Confusion Matrix, ROC & AUC
 . Generate detailed visualizations for model performance.
 
 ## 🛠️ How to Run
