@@ -28,6 +28,9 @@ The dataset used in this project is publicly available on Kaggle:
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project description and instructions
 ```
+![image](https://github.com/user-attachments/assets/28596c51-bdc2-4326-9498-d577623a8bb5)
+
+
 ## 🚀 Methodology
 
 ### 1️⃣ Data Loading & Preprocessing
